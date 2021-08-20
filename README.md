@@ -24,7 +24,7 @@ The downloaded file is present in Data folder. For more information on data plea
 2. Support vector classification.
 3. Random forest classification.
 
-## Points
+## Highlights of the project
 1. Performed EDA and implemented Random Forest, SVM, Logistic Regression models to predict the genotype of mice
 2. Identified correlation among features, replaced missing values and, performed outlier detection on 77 different proteins
 3. Applied Grid search with k-fold cross-validation technique for hyperparameter tuning to get the best parameters
